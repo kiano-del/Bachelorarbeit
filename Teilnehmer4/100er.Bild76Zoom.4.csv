@@ -1,0 +1,3 @@
+ms;state;event;payload;gx;gy
+299188;3;EVENT_ZOOM_OPEN;cond=100,image_idx=75,image_id=katze_077.png;0.43906534;0.81556416
+302620;3;EVENT_SELECT;image_id=katze_077.png,cond=100,set=0,animal_idx=0,animal_name=Katze;0.43906534;0.81556416
