@@ -1,0 +1,3 @@
+ms;state;event;payload;gx;gy
+217104;3;EVENT_ZOOM_OPEN;cond=100,image_idx=94,image_id=hase_095.png;0.4675661;0.88033664
+217671;3;EVENT_SELECT;image_id=hase_095.png,cond=100,set=0,animal_idx=3,animal_name=Hase;0.4675661;0.88033664
